@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Noella-nk/Comp3104/static/css/main.27ca76a1.css",
+    "main.js": "/Noella-nk/Comp3104/static/js/main.d33b8247.js",
+    "static/js/453.ebe2eb95.chunk.js": "/Noella-nk/Comp3104/static/js/453.ebe2eb95.chunk.js",
+    "index.html": "/Noella-nk/Comp3104/index.html",
+    "main.27ca76a1.css.map": "/Noella-nk/Comp3104/static/css/main.27ca76a1.css.map",
+    "main.d33b8247.js.map": "/Noella-nk/Comp3104/static/js/main.d33b8247.js.map",
+    "453.ebe2eb95.chunk.js.map": "/Noella-nk/Comp3104/static/js/453.ebe2eb95.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.27ca76a1.css",
+    "static/js/main.d33b8247.js"
+  ]
+}

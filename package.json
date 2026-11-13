@@ -21,7 +21,7 @@
   "bugs": {
     "url": "https://github.com/Noella-nk/Comp3104/issues"
   },
-  "homepage": ".",
+  "homepage": "https://noella-nk.github.io/Comp3104",
 
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
